@@ -1,4 +1,4 @@
-# Time Tracker & Visualizer
+# Dev Time Visualizer
 
 Dev Time Visualizer is a Visual Studio Code extension that helps you track and understand how much time you spend coding. With this extension, you can generate reports and view interactive charts that break down your coding time by files, folders, and days of the week.
 
@@ -36,6 +36,10 @@ Dev Time Visualizer is a Visual Studio Code extension that helps you track and u
   - **Bar Chart:** Shows time spent on individual files.
   - **Weekly Chart:** Displays your coding time for each day over the last 7 days.
   - **Detailed Table:** Lists your coding time by date, root folder, subfolder, and file.
+
+![Report Example](https://github.com/tushar-kant/Time-Tracker-Visualizer/blob/main/image1.jpeg)
+![Chart Example](https://github.com/tushar-kant/Time-Tracker-Visualizer/blob/main/image2.jpeg)
+![Chart Example1](https://github.com/tushar-kant/Time-Tracker-Visualizer/blob/main/image3.jpeg)
 
 ### 5. Export Your Report
 
@@ -76,5 +80,7 @@ For more details on how to use Visual Studio Code extensions, you can check out:
 - [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
 - [Markdown Syntax Guide](https://help.github.com/articles/markdown-basics/)
 
-Enjoy using Dev Time Visualizer to better understand your coding habits and improve your productivity!
 
+
+
+Enjoy using Dev Time Visualizer to better understand your coding habits and improve your productivity!
